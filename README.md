@@ -5,7 +5,7 @@
 The marketing agency Horiseon tasked me with refactoring the existing code of the Horiseon webpage. This refactoring had two aspects: to add accessibility elements to the code; and to 
 improve and consolidate HTML and CSS semantic elements. The refactoring was requested to improve search engine optimization for the site.
 
-/*include link*/
+[Horiseon](https://pdbesse.github.io/Horiseon/)
 
 ## Table of Contents
 * [Installation](#installation)
